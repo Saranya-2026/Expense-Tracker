@@ -1,0 +1,21 @@
+{
+  "expense": [
+    {
+      "id": "1",
+      "title": "Salary",
+      "category": "Salary",
+      "amount": "50000",
+      "date": "2026-08-02",
+      "type": "Income"
+    },
+    {
+      "id": "2",
+      "title": "Groceries",
+      "category": "Food",
+      "amount": "1500",
+      "date": "2026-08-02",
+      "type": "Expense"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
